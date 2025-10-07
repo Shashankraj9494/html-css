@@ -1,0 +1,38 @@
+/* body{
+    background-color: rgb(9, 9, 79);
+}
+
+*{
+    color: white;
+}
+
+
+#logo{
+    font-size: 25px;
+    color: #f08804;
+}
+button{
+    background-color: #f08804;
+}
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+    width: 1400px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+} */
+
+#myDiv{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
